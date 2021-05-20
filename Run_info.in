@@ -72,8 +72,8 @@ HtCut 30.0
 
 JetPtForMhtAndHt 30.0        
 JetEtaForMhtAndHt 5.0        
-ApplyJetLooseIDforMhtAndHt false
-ApplyJetTightIDforMhtAndHt true
+ApplyJetLooseIDforMhtAndHt true
+ApplyJetTightIDforMhtAndHt false
 
 /// --- MC selection --- ///
 InitializeMCSelection false
