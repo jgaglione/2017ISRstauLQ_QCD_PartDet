@@ -43,7 +43,7 @@ JMatchingDeltaR 0.8
 RemoveOverlapWithBs 1
 BJMatchingDeltaR 0.4
 
-Apply2017EEnoiseVeto false
+Apply2017EEnoiseVeto truw
 
 DiscrByDphi1 true
 Dphi1CutMet 0.7 9999.5
@@ -78,7 +78,7 @@ JMatchingDeltaR 0.8
 RemoveOverlapWithBs 1
 BJMatchingDeltaR 0.4
 
-Apply2017EEnoiseVeto false
+Apply2017EEnoiseVeto true
 
 DiscrByDphi1 true
 Dphi1CutMet 0.7 9999.5
@@ -106,7 +106,7 @@ RemoveOverlapWithTau2s 1
 Tau1MatchingDeltaR 0.4
 Tau2MatchingDeltaR 0.4
 
-Apply2017EEnoiseVeto false
+Apply2017EEnoiseVeto true
 
 DiscrByDphi1 true
 Dphi1CutMet 0.7 9999.5
@@ -137,7 +137,7 @@ RemoveOverlapWithTau2s 0
 Tau1MatchingDeltaR 0.4
 Tau2MatchingDeltaR 0.4
 
-Apply2017EEnoiseVeto false
+Apply2017EEnoiseVeto true
 
 DiscrByDphi1 true 
 Dphi1CutMet 0.7 9999.5
@@ -169,7 +169,7 @@ RemoveOverlapWithTau2s 1
 Tau1MatchingDeltaR 0.4
 Tau2MatchingDeltaR 0.4
 
-Apply2017EEnoiseVeto false
+Apply2017EEnoiseVeto true
 
 DiscrByDphi1 true
 Dphi1CutMet 0.7 9999.5
@@ -195,7 +195,7 @@ RemoveOverlapWithTau2s 1
 Tau1MatchingDeltaR 0.4
 Tau2MatchingDeltaR 0.4
 
-Apply2017EEnoiseVeto false
+Apply2017EEnoiseVeto true
 
 ApplyJetBTaggingCSVv2 0 
 ApplyJetBTaggingDeepCSV 1
